@@ -1,0 +1,6 @@
+framework module Pods_TestMyShell_Tests {
+  umbrella header "Pods-TestMyShell_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

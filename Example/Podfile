@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TestMyShell_Example' do
+  pod 'TestMyShell', :path => '../'
+
+  target 'TestMyShell_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "TestMyShell",
+  "version": "0.1.0",
+  "summary": "A short description of TestMyShell.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yujiao.caovivame.cn/TestMyShell",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yujiao.caovivame.cn": "lipenghui02@meituan.com"
+  },
+  "source": {
+    "git": "https://github.com/yujiao.caovivame.cn/TestMyShell.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestMyShell/Classes/**/*"
+}

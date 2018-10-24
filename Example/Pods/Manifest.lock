@@ -1,0 +1,16 @@
+PODS:
+  - TestMyShell (0.1.0)
+
+DEPENDENCIES:
+  - TestMyShell (from `../`)
+
+EXTERNAL SOURCES:
+  TestMyShell:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestMyShell: 2ff588af077aba3f848e3f02bd2982e085c53268
+
+PODFILE CHECKSUM: 9ddf98a154e4938b108379e364dec25c1a5e83d1
+
+COCOAPODS: 1.6.0.beta.2

@@ -1,0 +1,6 @@
+framework module TestMyShell {
+  umbrella header "TestMyShell-umbrella.h"
+
+  export *
+  module * { export * }
+}
