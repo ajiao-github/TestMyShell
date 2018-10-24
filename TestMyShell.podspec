@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestMyShell'
-  s.version          = '0.1.0'
+  s.version          = ‘0.0.1’
   s.summary          = 'A short description of TestMyShell.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yujiao.caovivame.cn/TestMyShell'
+  s.homepage         = 'https://github.com/ajiao-github/TestMyShell'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yujiao.caovivame.cn' => 'lipenghui02@meituan.com' }
-  s.source           = { :git => 'https://github.com/yujiao.caovivame.cn/TestMyShell.git', :tag => s.version.to_s }
+  s.author           = "ajiao-github"
+  s.source           = { :git => "https://github.com/ajiao-github/TestMyShell.git", :tag => “0.0.1” }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
